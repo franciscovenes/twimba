@@ -14,8 +14,8 @@ export const tweetsData = [
   {
     handle: `@Elon ✅`,
     profilePic: `images/musk.png`,
-    likes: 6500,
-    retweets: 234,
+    likes: 5,
+    retweets: 3,
     tweetText: `I just had a new 💡 to solve mobility problems. 
             It involves you buying more Teslas...`,
     replies: [
